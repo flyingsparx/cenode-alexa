@@ -1,0 +1,8 @@
+{
+  "name": "cenode-alexa-handler",
+  "version": "1.0.0",
+  "author": "Will Webberley",
+  "dependencies": {
+    "alexa-sdk": "^1.0.11"
+  }
+}
